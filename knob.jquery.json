@@ -9,16 +9,16 @@
         "ui",
         "input"
     ],
-    "version": "1.2.13",
+    "version": "1.13.1",
     "author": {
-        "name": "Anthony Terrien",
-        "url": "https://github.com/aterrien"
+        "name": "Ben Quirk",
+        "url": "https://github.com/banjahman"
     },
     "maintainers": [
         {
-            "name": "Anthony Terrien",
-            "email": "kontrol@anthonyterrien.com",
-            "url": "http://anthonyterrien.com/knob"
+            "name": "Ben Quirk",
+            "email": "ben.quirk@edlogics.com",
+            "url": "http://github.com/banjahman/jQuery-knob"
         }
     ],
     "licenses": [
@@ -27,10 +27,10 @@
             "url": "http://opensource.org/licenses/mit-license.php"
         }
     ],
-    "bugs": "https://github.com/aterrien/jQuery-Knob/issues",
-    "homepage": "https://github.com/aterrien/jQuery-Knob",
-    "docs": "https://github.com/aterrien/jQuery-Knob",
-    "download": "https://github.com/aterrien/jQuery-Knob/tags",
+    "bugs": "https://github.com/banjahman/jQuery-Knob/issues",
+    "homepage": "https://github.com/banjahman/jQuery-Knob",
+    "docs": "https://github.com/banjahman/jQuery-Knob",
+    "download": "https://github.com/banjahman/jQuery-Knob/tags",
     "dependencies": {
         "jquery": ">=1.7.0"
     }
